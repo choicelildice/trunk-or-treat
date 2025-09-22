@@ -7,7 +7,7 @@ A festive website for the Medfield neighborhood Trunk or Treat event.
 - **Date:** Friday, October 31st, 2025
 - **Time:** Setup at 6:00 PM, Trick-or-Treating at 7:00 PM  
 - **Location:** Medfield Swim Club, 1401 Baker Rd, Raleigh, NC 27607
-- **Registration:** Required by Monday, October 27th
+- **Registration:** Required by Thursday, October 23rd
 
 ## Website Features
 
